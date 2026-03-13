@@ -1,0 +1,36 @@
+{
+  "trades": [
+    {
+      "date": "2026-03-08T17:00:14.578983",
+      "action": "buy",
+      "basket": "income",
+      "symbol": "AAPL",
+      "quantity": 50,
+      "price": 257.46
+    },
+    {
+      "date": "2026-03-08T17:00:15.188424",
+      "action": "buy",
+      "basket": "income",
+      "symbol": "MSFT",
+      "quantity": 30,
+      "price": 408.96
+    },
+    {
+      "date": "2026-03-08T17:00:15.794610",
+      "action": "buy",
+      "basket": "growth",
+      "symbol": "GOOGL",
+      "quantity": 10,
+      "price": 298.52
+    },
+    {
+      "date": "2026-03-08T17:00:16.404271",
+      "action": "buy",
+      "basket": "hedge",
+      "symbol": "SPY",
+      "quantity": 15,
+      "price": 672.38
+    }
+  ]
+}

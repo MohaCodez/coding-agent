@@ -1,0 +1,73 @@
+{
+  "simulation_state": {
+    "current_day": 3,
+    "start_date": "2026-03-08T17:00:20.235357",
+    "last_run": "2026-03-08T17:00:31.802220",
+    "is_active": true
+  },
+  "daily_logs": [
+    {
+      "day": 1,
+      "date": "2026-03-09T17:00:20.235357",
+      "valuation": 138212.7,
+      "total_pnl": 0.0,
+      "basket_pnl": {
+        "income": 0.0,
+        "growth": 0.0,
+        "hedge": 0.0
+      },
+      "greeks": {
+        "delta": 52.5,
+        "gamma": 1.05,
+        "theta": -5.25,
+        "vega": 10.5
+      },
+      "ai_suggestions": "Error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate",
+      "snapshot_file": "/home/amit/Desktop/coding-asistant/local-options-analyst/data/market_data/daily_snapshots/day_1_2026-03-08.json",
+      "trades_executed": [],
+      "hedging_actions": []
+    },
+    {
+      "day": 2,
+      "date": "2026-03-10T17:00:20.235357",
+      "valuation": 138212.7,
+      "total_pnl": 0.0,
+      "basket_pnl": {
+        "income": 0.0,
+        "growth": 0.0,
+        "hedge": 0.0
+      },
+      "greeks": {
+        "delta": 52.5,
+        "gamma": 1.05,
+        "theta": -5.25,
+        "vega": 10.5
+      },
+      "ai_suggestions": "Error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate",
+      "snapshot_file": "/home/amit/Desktop/coding-asistant/local-options-analyst/data/market_data/daily_snapshots/day_2_2026-03-08.json",
+      "trades_executed": [],
+      "hedging_actions": []
+    },
+    {
+      "day": 3,
+      "date": "2026-03-11T17:00:20.235357",
+      "valuation": 138212.7,
+      "total_pnl": 0.0,
+      "basket_pnl": {
+        "income": 0.0,
+        "growth": 0.0,
+        "hedge": 0.0
+      },
+      "greeks": {
+        "delta": 52.5,
+        "gamma": 1.05,
+        "theta": -5.25,
+        "vega": 10.5
+      },
+      "ai_suggestions": "Error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate",
+      "snapshot_file": "/home/amit/Desktop/coding-asistant/local-options-analyst/data/market_data/daily_snapshots/day_3_2026-03-08.json",
+      "trades_executed": [],
+      "hedging_actions": []
+    }
+  ]
+}

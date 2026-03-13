@@ -1,0 +1,40 @@
+{
+  "cash": 100000.0,
+  "baskets": {
+    "income": [
+      {
+        "symbol": "AAPL",
+        "quantity": 50,
+        "entry_price": 257.46,
+        "type": "long",
+        "entry_date": "2026-03-08T17:00:14.578803"
+      },
+      {
+        "symbol": "MSFT",
+        "quantity": 30,
+        "entry_price": 408.96,
+        "type": "long",
+        "entry_date": "2026-03-08T17:00:15.188236"
+      }
+    ],
+    "growth": [
+      {
+        "symbol": "GOOGL",
+        "quantity": 10,
+        "entry_price": 298.52,
+        "type": "long",
+        "entry_date": "2026-03-08T17:00:15.794412"
+      }
+    ],
+    "hedge": [
+      {
+        "symbol": "SPY",
+        "quantity": 15,
+        "entry_price": 672.38,
+        "type": "long",
+        "entry_date": "2026-03-08T17:00:16.404058"
+      }
+    ]
+  },
+  "last_updated": "2026-03-08T17:00:16.404069"
+}

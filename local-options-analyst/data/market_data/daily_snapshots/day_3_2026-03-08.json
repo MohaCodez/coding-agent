@@ -1,0 +1,23 @@
+{
+  "date": "2026-03-11T17:00:20.235357",
+  "day": 3,
+  "prices": {
+    "SPY": 672.38,
+    "GOOGL": 298.52,
+    "AAPL": 257.46,
+    "MSFT": 408.96
+  },
+  "valuation": 138212.7,
+  "total_pnl": 0.0,
+  "basket_pnl": {
+    "income": 0.0,
+    "growth": 0.0,
+    "hedge": 0.0
+  },
+  "greeks": {
+    "delta": 52.5,
+    "gamma": 1.05,
+    "theta": -5.25,
+    "vega": 10.5
+  }
+}
